@@ -1,4 +1,5 @@
-#cleanWorkspace.groovy //cleans workspace
+// Jenkins_shared_library/vars/cleanWorkspace.groovy
+
 def call() {
     cleanWs()
 }
