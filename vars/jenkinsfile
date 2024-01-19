@@ -1,4 +1,4 @@
-@Library('Jenkins_shared_library') 
+@Library('Jenkins_shared_library')  
 def COLOR_MAP = [
     'FAILURE' : 'danger',
     'SUCCESS' : 'good'
